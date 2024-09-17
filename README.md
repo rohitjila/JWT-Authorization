@@ -1,4 +1,4 @@
-Welcome to the JWT Authentication Project
+Welcome to the JWT Authorization Project
 
 What is JWT?
 
